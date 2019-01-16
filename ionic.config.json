@@ -1,0 +1,7 @@
+{
+  "name": "nfactory",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
