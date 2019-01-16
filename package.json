@@ -1,8 +1,8 @@
 {
-  "name": "nfactory",
+  "name": "nfactorysample",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "author": "DWM-IT",
+  "homepage": "https://www.dwm-it.com/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -61,7 +61,7 @@
     "tslint": "~5.12.0",
     "typescript": "~3.1.6"
   },
-  "description": "An Ionic project",
+  "description": "Ionic v4 sample",
   "cordova": {
     "plugins": {
       "cordova-plugin-whitelist": {},
